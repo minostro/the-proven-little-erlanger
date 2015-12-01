@@ -1,0 +1,11 @@
+{application, 'tple',
+ [{description, "An Erlang Test Suite for The Littel Schemer Book"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []}
+ ]}.
